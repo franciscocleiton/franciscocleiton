@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá, eu sou o Francisco Cleiton!
+
+<div align="center">
+  <a href="https://www.instagram.com/franciscocleiton_/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscocleiton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocleiton&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **franciscocleiton/franciscocleiton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
