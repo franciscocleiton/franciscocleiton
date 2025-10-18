@@ -4,7 +4,6 @@
 
 ##
 - Atualmente estou me graduando em Engenharia de Computação e sou apaixonado pela computação!
-- Cursando DevOps
 - Estudante de Programação
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cleiton-da-silva-0b3199223/)
