@@ -3,8 +3,9 @@
 <h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Francisco Cleiton</h1
 
 ##
-- Atualmente estou me graduando em Engenharia de Computação e sou apaixonado pela computação!
-- Estudante de Programação
+- Sou Graduado em Engenharia de Computação;
+- Dando os primeiros passos como Dev Full Stack Júnior;
+- Python costuma ser a linguagem que mais uso.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cleiton-da-silva-0b3199223/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleytonsylvaoficial)
