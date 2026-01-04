@@ -10,9 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cleiton-da-silva-0b3199223/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleytonsylvaoficial)
 
-![franciscocleiton GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscocleiton&show_icons=true&theme=onedark)
-<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscocleiton&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
-
 # Tecnologias
 ![Git](https://img.shields.io/badge/-Git-EE4F32?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)
